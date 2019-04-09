@@ -6,7 +6,7 @@ class Author
   end
   
   def post
-    
+    Post
   end
   
 end
