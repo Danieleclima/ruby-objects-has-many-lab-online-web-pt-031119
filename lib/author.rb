@@ -18,4 +18,5 @@ class Author
     new_post.author = self
   end
   
+  
 end
